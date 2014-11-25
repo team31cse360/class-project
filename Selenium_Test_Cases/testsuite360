@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+  <meta content="text/html; charset=UTF-8" http-equiv="content-type" />
+  <title>Test Suite</title>
+</head>
+<body>
+<table id="suiteTable" cellpadding="1" cellspacing="1" border="1" class="selenium"><tbody>
+<tr><td><b>Test Suite</b></td></tr>
+<tr><td><a href="test2.html">Successful Register</a></td></tr>
+<tr><td><a href="test2.html">Unsuccessful Register</a></td></tr>
+<tr><td><a href="test3.html">RegEmailUsed</a></td></tr>
+<tr><td><a href="test4.html">RegNoEmail</a></td></tr>
+<tr><td><a href="test5.html">RegNoFName</a></td></tr>
+<tr><td><a href="test6.html">RegNoLName</a></td></tr>
+<tr><td><a href="test7.html">RegNoPassword</a></td></tr>
+<tr><td><a href="test8.html">Unsuccessful Login</a></td></tr>
+<tr><td><a href="test9.html">LoginNoPass</a></td></tr>
+<tr><td><a href="test10.html">LoginNoEmail</a></td></tr>
+<tr><td><a href="test11.html">LoginWrongEmail</a></td></tr>
+<tr><td><a href="test12.html">LoginWrongPass</a></td></tr>
+<tr><td><a href="test13.html">Successful Login</a></td></tr>
+<tr><td><a href="test15.html">ContactUs</a></td></tr>
+<tr><td><a href="test16.html">Upload Nothing</a></td></tr>
+<tr><td><a href="test17.html">Upload Photo</a></td></tr>
+<tr><td><a href="test18.html">Upload PNG</a></td></tr>
+<tr><td><a href="test19.html">Upload PDF</a></td></tr>
+<tr><td><a href="test20.html">Upload Word Doc</a></td></tr>
+<tr><td><a href="test21.html">Upload to Setting</a></td></tr>
+<tr><td><a href="test22.html">Upload Profile Pic</a></td></tr>
+<tr><td><a href="test23.html">Setting to Home</a></td></tr>
+<tr><td><a href="test24.html">Edit Pic</a></td></tr>
+<tr><td><a href="test25">Logout</a></td></tr>
+</tbody></table>
+</body>
+</html>
